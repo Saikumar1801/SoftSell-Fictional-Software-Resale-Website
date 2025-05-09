@@ -2,6 +2,8 @@
 
 This project is a responsive, single-page marketing website for "SoftSell," a fictional software resale startup, built for the Credex Web Development Internship assignment.
 
+![screencapture-soft-sell-fictional-software-resale-website-l4e5-vercel-app-2025-05-09-23_39_27](https://github.com/user-attachments/assets/7ffb6a15-a7b8-41d2-ab96-684eb8a0edbe)
+
 **Live URL:** https://soft-sell-fictional-software-resale-website-l4e5.vercel.app/
 **GitHub Repo:** https://github.com/Saikumar1801/SoftSell-Fictional-Software-Resale-Website
 

@@ -96,4 +96,3 @@ To build a responsive, single-page marketing website demonstrating the ability t
 *   **Review, Refinements, README:** 2 hours
 *   **Total Estimated Time:** ~28 hours
 
-*(This is an estimate. Actual time might vary.)*
